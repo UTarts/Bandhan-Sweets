@@ -115,7 +115,7 @@ export default function Footer() {
             </div>
 
             <a
-              href="https://caketowncafe.com"
+              href="https://caketown-cafe-official-website.pages.dev/"
               target="_blank"
               rel="noreferrer"
               className="mt-4 inline-flex items-center justify-between px-4 py-2.5 rounded-xl bg-[#C6923A] hover:bg-[#d8a348] text-[#1E1410] text-xs font-bold uppercase tracking-wider transition-all"
